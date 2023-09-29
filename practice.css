@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.header__item {
+    width: 100px;
+    height: auto;
+    padding: auto;
+}
+
+.div_bottom {
+    align-self: flex-end;
+    position: sticky;
+
+}

@@ -4,13 +4,22 @@
 
 
 .header__item {
-    width: 100px;
-    height: auto;
-    padding: auto;
+    width: 10rem;
+}
+.item{
+    padding: 1rem 2rem ;
+    font-weight: lighter;
+    font-size: 2rem;
+    text-transform: uppercase;
 }
 
-.div_bottom {
-    align-self: flex-end;
-    position: sticky;
-
+.item__sub-item{
+    width: 10rem;
+}
+.sub-item{
+    padding: 0.5rem 0.5rem;
+    font-size: 1rem;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 200;
 }

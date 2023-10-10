@@ -4,7 +4,6 @@ module.exports = {
   theme: {
     extend: {},
   },
-  presets: [require("./node_modules/open-color/open-color")],
   plugins: [],
 }
 
